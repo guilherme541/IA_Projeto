@@ -15,7 +15,7 @@
 
 ### Descrição do Projeto
 
-Este projeto consiste em programar um robô no simulador Webots capaz de identificar, entre várias caixas, qual delas é a caixa leve. O critério de identificação é que a caixa leve é a única que se move quando o robô encosta nela. O robô deve navegar pelo ambiente, desviar de obstáculos e, ao encontrar a caixa leve, parar de procurar e girar sobre o próprio eixo.
+Este projeto consiste em programar um robô no simulador Webots capaz de identificar, entre várias caixas, qual delas é a caixa leve. O critério de identificação é que a caixa leve é a única que se move quando o robô encosta nela. O robô deve navegar pelo ambiente, desviar de obstáculos e, ao encontrar a caixa leve, parar de procurar e girar sobre o próprio eixo. [Vídeo de Demonstração](https://youtu.be/-zy6p42y844)
 
 [![Vídeo de Demonstração](https://img.youtube.com/vi/-zy6p42y844/0.jpg)](https://youtu.be/-zy6p42y844)
 
